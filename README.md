@@ -1,6 +1,6 @@
 # Hi, I'm [Muhammad Amirul Umar]
 
-[One line about you. Example: Computer Science student at UiTM interested in software engineering and AI.]
+[Computer Science student at UiTM interested in software engineering and AI.]
 
 ## About me
 - Studying: [CS230], UiTM
